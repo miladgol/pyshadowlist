@@ -2,7 +2,7 @@
 Simply create a password list
 Just run the program
 # start
-git clone https://www.github.com/miladgol/pyshadowlist.git
-cd pyshadowlist/
-chmod +x pyshadowlist.py
-python pyshadowlist.py
+1. git clone https://www.github.com/miladgol/pyshadowlist.git
+2. cd pyshadowlist/
+3. chmod +x pyshadowlist.py
+4. python pyshadowlist.py
