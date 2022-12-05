@@ -1,5 +1,5 @@
 # pyshadowlist
-- Simply create a password list, Just run the program
+- A powerful tool for create password list, Just run the program
 - Tested on all operating systems, Linux and Windows
 # How to run:
 1. install python3
