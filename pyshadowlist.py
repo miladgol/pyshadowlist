@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- coding:utf8 -*-
 # Generate Strong Password List For BruteForce Attack
 
